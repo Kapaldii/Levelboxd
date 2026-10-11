@@ -1,5 +1,11 @@
+# React / Node.js
+node_modules/
+dist/
+
+# Java / Maven
 target/
-bin/
 *.class
 
-.vscode/
+# Variáveis de ambiente
+.env
+.env.local
